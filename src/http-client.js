@@ -1,3 +1,4 @@
+"use strict";
 class HttpClient {
   static _instance = null;
 
